@@ -16,7 +16,7 @@
 
 [🚀 Live Demo](https://swiftship.vercel.app/) • [📚 Docs](https://github.com/swiftship/docs) • [🐛 Report Bug](https://github.com/swiftship/issues)
 
-<img src="/public/dashboard.png" alt="SwiftShip Dashboard" width="700"/>
+<img src="/public/d2.png" alt="SwiftShip Dashboard" width="700"/>
 </div>
 
 ---
